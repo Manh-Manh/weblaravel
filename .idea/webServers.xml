@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df1b12d4-48f8-4256-9b19-63fd82c777db" name="web" url="http://localhost:8080//weblaravel/">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\weblaravel" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
